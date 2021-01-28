@@ -1,0 +1,23 @@
+{
+  "name": "cybertech-api",
+  "version": "1.0.0",
+  "description": "Cybertech-api-products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arivanantham98/cybertech-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arivanantham98/cybertech-api/issues"
+  },
+  "homepage": "https://github.com/Arivanantham98/cybertech-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
